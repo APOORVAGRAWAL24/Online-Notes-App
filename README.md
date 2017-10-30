@@ -7,4 +7,4 @@ It has following features:-
 3 Notes Accessibility
 4 Forgot Password
 5 Edit Notes
-The site is hosted at ../online-notes-app.000webhostapp.com
+The site is hosted at ./online-notes-app.000webhostapp.com
