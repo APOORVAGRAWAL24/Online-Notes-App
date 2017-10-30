@@ -8,7 +8,8 @@ It has following features:-
 4 Forgot Password
 5 Edit Notes
 The site is hosted at [this link](https://online-notes-app.000webhostapp.com)
-Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+###Example
+* Item 1
+* Item 2
+  * Sub Item 1
+  * Sub Item 2
