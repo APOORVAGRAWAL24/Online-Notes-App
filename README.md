@@ -6,6 +6,6 @@ It has following features:-
 * Profile Update
 * Notes Accessibility
 * Forgot Password
-* Edit Notes*
-The site is hosted at [this link](https://online-notes-app.000webhostapp.com)
+* Edit Notes
+* The site is hosted at [this link](https://online-notes-app.000webhostapp.com)
 
